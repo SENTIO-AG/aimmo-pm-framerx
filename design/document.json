@@ -1411,11 +1411,11 @@
                 {
                   "data" : {
                     "emptyStyle" : [
-                      "FONT:HelveticaNeue",
                       "SIZE:16",
                       "LETTERSPACING:0",
                       "LINEHEIGHT:1.2",
-                      "COLOR:hsla(0, 0%, 0%, 0.34)"
+                      "COLOR:hsla(0, 0%, 0%, 0.34)",
+                      "FONT:HelveticaNeue-Bold"
                     ]
                   },
                   "depth" : 0,
@@ -1423,11 +1423,6 @@
 
                   ],
                   "inlineStyleRanges" : [
-                    {
-                      "length" : 32,
-                      "offset" : 0,
-                      "style" : "FONT:HelveticaNeue"
-                    },
                     {
                       "length" : 32,
                       "offset" : 0,
@@ -1447,6 +1442,11 @@
                       "length" : 32,
                       "offset" : 0,
                       "style" : "COLOR:hsla(0, 0%, 0%, 0.34)"
+                    },
+                    {
+                      "length" : 32,
+                      "offset" : 0,
+                      "style" : "FONT:HelveticaNeue-Bold"
                     }
                   ],
                   "key" : "dfo8c",
@@ -1455,11 +1455,11 @@
                 }
               ],
               "cached" : {
-                "html" : "<div data-offset-key=\"dfo8c-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"dfo8c-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;HelveticaNeue&quot;, &quot;Helvetica Neue&quot;, sans-serif;-webkit-text-fill-color:hsla(0, 0%, 0%, 0.34);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Prototype Property Manager v0.12<\/span><\/span><\/div>",
+                "html" : "<div data-offset-key=\"dfo8c-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"dfo8c-0-0\" style=\"tab-size:4;font-weight:700;font-family:&quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue&quot;, sans-serif;-webkit-text-fill-color:hsla(0, 0%, 0%, 0.34);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Prototype Property Manager v0.12<\/span><\/span><\/div>",
                 "os" : "10_14",
                 "size" : {
                   "height" : 19,
-                  "width" : 248
+                  "width" : 262
                 },
                 "width" : 0
               },
@@ -1469,7 +1469,7 @@
             },
             "top" : 117,
             "visible" : true,
-            "width" : 248,
+            "width" : 262,
             "widthType" : 0
           },
           {
@@ -77025,7 +77025,7 @@
                     "heightType" : 0,
                     "hueRotate" : 0,
                     "hueRotateEnabled" : 0,
-                    "id" : "k6Mgqkpen@framer\/edoardo.ios-kit-d55_BkEEz-F2qxnqRVo",
+                    "id" : "iAQ15G93G@framer\/edoardo.ios-kit-d55_BkEEz-F2qxnqRVo",
                     "intrinsicHeight" : null,
                     "intrinsicWidth" : null,
                     "invert" : 0,
@@ -77042,7 +77042,7 @@
                     "navigationTransitionDirection" : "left",
                     "opacity" : 0.5,
                     "originalid" : null,
-                    "parentid" : "k6Mgqkpen@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
+                    "parentid" : "iAQ15G93G@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
                     "previewSettings" : null,
                     "radius" : 0,
                     "radiusBottomLeft" : 0,
@@ -77123,7 +77123,7 @@
                     "heightType" : 0,
                     "hueRotate" : 0,
                     "hueRotateEnabled" : 0,
-                    "id" : "k6Mgqkpen@framer\/edoardo.ios-kit-d55_BkEEz-R3GuHYJMu",
+                    "id" : "iAQ15G93G@framer\/edoardo.ios-kit-d55_BkEEz-R3GuHYJMu",
                     "intrinsicHeight" : null,
                     "intrinsicWidth" : null,
                     "invert" : 0,
@@ -77140,7 +77140,7 @@
                     "navigationTransitionDirection" : "left",
                     "opacity" : 1,
                     "originalid" : null,
-                    "parentid" : "k6Mgqkpen@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
+                    "parentid" : "iAQ15G93G@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
                     "previewSettings" : null,
                     "radius" : 0,
                     "radiusBottomLeft" : 0,
@@ -77194,7 +77194,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "k6Mgqkpen@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
+                "id" : "iAQ15G93G@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
                 "intrinsicHeight" : null,
                 "intrinsicWidth" : null,
                 "invert" : 0,
@@ -77353,7 +77353,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "D5Dlr3eES@framer\/edoardo.ios-kit-TF9EVdCIb-QHXqXac9W",
+                "id" : "LNNLg6mZD@framer\/edoardo.ios-kit-TF9EVdCIb-QHXqXac9W",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -77568,7 +77568,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "K7pP5g8a_@framer\/edoardo.ios-kit-X0JTtOehr-ZTHsfcVGM",
+                "id" : "enQmLq62S@framer\/edoardo.ios-kit-X0JTtOehr-ZTHsfcVGM",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -77801,7 +77801,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "YhSYDZlPv@framer\/edoardo.ios-kit-FM6oG64sh-SXCDX2pZP",
+                "id" : "Bg1XrRNwC@framer\/edoardo.ios-kit-FM6oG64sh-SXCDX2pZP",
                 "intrinsicHeight" : 15,
                 "intrinsicWidth" : 10,
                 "invert" : 0,
@@ -77951,7 +77951,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "CBdFKTwSf@framer\/edoardo.ios-kit-kysPldiIC-POinRBWj1",
+                "id" : "C5OSdq4Bv@framer\/edoardo.ios-kit-kysPldiIC-POinRBWj1",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -78272,7 +78272,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "B_5LxkzoQ@framer\/edoardo.ios-kit-ossDw2kPM-a0X9wCT6p",
+                "id" : "LLviY7fRH@framer\/edoardo.ios-kit-ossDw2kPM-a0X9wCT6p",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -78401,7 +78401,7 @@
                     "fillImageResize" : "fill",
                     "fillType" : "color",
                     "height" : 28.944271909999163,
-                    "id" : "B_5LxkzoQ@framer\/edoardo.ios-kit-ossDw2kPM-x_Th1zu8y",
+                    "id" : "LLviY7fRH@framer\/edoardo.ios-kit-ossDw2kPM-x_Th1zu8y",
                     "isMaster" : false,
                     "lineCap" : "butt",
                     "lineJoin" : "miter",
@@ -78409,7 +78409,7 @@
                     "name" : null,
                     "opacity" : 1,
                     "originalid" : null,
-                    "parentid" : "B_5LxkzoQ@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
+                    "parentid" : "LLviY7fRH@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
                     "pathClosed" : true,
                     "pathSegments" : [
                       {
@@ -78559,7 +78559,7 @@
                 "fillType" : "color",
                 "height" : 30,
                 "heightType" : 0,
-                "id" : "B_5LxkzoQ@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
+                "id" : "LLviY7fRH@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
                 "isMaster" : false,
                 "left" : 0,
                 "locked" : false,
@@ -78705,7 +78705,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "H6UZwbraB@framer\/edoardo.ios-kit-n7NP9hdE3-LuC_v9aw4",
+                "id" : "ij8CFt54F@framer\/edoardo.ios-kit-n7NP9hdE3-LuC_v9aw4",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -78834,7 +78834,7 @@
                     "fillImageResize" : "fill",
                     "fillType" : "color",
                     "height" : 28.944271909999163,
-                    "id" : "H6UZwbraB@framer\/edoardo.ios-kit-n7NP9hdE3-izXd9XVcO",
+                    "id" : "ij8CFt54F@framer\/edoardo.ios-kit-n7NP9hdE3-izXd9XVcO",
                     "isMaster" : false,
                     "lineCap" : "butt",
                     "lineJoin" : "miter",
@@ -78842,7 +78842,7 @@
                     "name" : null,
                     "opacity" : 1,
                     "originalid" : null,
-                    "parentid" : "H6UZwbraB@framer\/edoardo.ios-kit-n7NP9hdE3-oUM_YhjVI",
+                    "parentid" : "ij8CFt54F@framer\/edoardo.ios-kit-n7NP9hdE3-oUM_YhjVI",
                     "pathClosed" : true,
                     "pathSegments" : [
                       {
@@ -78992,7 +78992,7 @@
                 "fillType" : "color",
                 "height" : 30,
                 "heightType" : 0,
-                "id" : "H6UZwbraB@framer\/edoardo.ios-kit-n7NP9hdE3-oUM_YhjVI",
+                "id" : "ij8CFt54F@framer\/edoardo.ios-kit-n7NP9hdE3-oUM_YhjVI",
                 "isMaster" : false,
                 "left" : 1,
                 "locked" : false,
@@ -79138,7 +79138,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "F8Rprz4Ug@framer\/edoardo.ios-kit-ossDw2kPM-a0X9wCT6p",
+                "id" : "dvAP8oFvo@framer\/edoardo.ios-kit-ossDw2kPM-a0X9wCT6p",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -79267,7 +79267,7 @@
                     "fillImageResize" : "fill",
                     "fillType" : "color",
                     "height" : 28.944271909999163,
-                    "id" : "F8Rprz4Ug@framer\/edoardo.ios-kit-ossDw2kPM-x_Th1zu8y",
+                    "id" : "dvAP8oFvo@framer\/edoardo.ios-kit-ossDw2kPM-x_Th1zu8y",
                     "isMaster" : false,
                     "lineCap" : "butt",
                     "lineJoin" : "miter",
@@ -79275,7 +79275,7 @@
                     "name" : null,
                     "opacity" : 1,
                     "originalid" : null,
-                    "parentid" : "F8Rprz4Ug@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
+                    "parentid" : "dvAP8oFvo@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
                     "pathClosed" : true,
                     "pathSegments" : [
                       {
@@ -79425,7 +79425,7 @@
                 "fillType" : "color",
                 "height" : 30,
                 "heightType" : 0,
-                "id" : "F8Rprz4Ug@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
+                "id" : "dvAP8oFvo@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
                 "isMaster" : false,
                 "left" : 0,
                 "locked" : false,
