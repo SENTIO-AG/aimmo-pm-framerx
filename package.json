@@ -1,0 +1,29 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone8-gold": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone8-silver": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone8-space-gray": "^1.0.0",
+		"@types/react": "^16.0.31",
+		"framer": "^0.9.6"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.6",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "c78e2f7b-1141-4e06-8de8-27dc5926d954"
+	},
+	"author": "Marc Gstöhl",
+	"dependencies": {
+		"@framer/anubisvic_ofx.interactive-form-elements": "^1.1.0",
+		"@framer/colebemis.feather-icons": "^1.2.0",
+		"@framer/deplodog.tag": "^1.7.0",
+		"@framer/edoardo.ios-kit": "^1.4.0",
+		"@framer/google.material-design": "^1.0.0",
+		"@framer/iconfinder.google-material-design-icons": "^1.1.0",
+		"@framer/nitin.simple-counter": "^1.0.0"
+	}
+}
