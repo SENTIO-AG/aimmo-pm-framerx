@@ -656,9 +656,9 @@ framer@^0.1.8:
     hsluv "^0.0.3"
     immutable "^3.8.2"
 
-framer@^0.9.6:
-  version "0.9.6"
-  resolved "https://registry.yarnpkg.com/framer/-/framer-0.9.6.tgz#5733c2cabeb3f6416b2c0c9cf9b1928bb426ebe8"
+framer@^0.9.7:
+  version "0.9.7"
+  resolved "https://registry.yarnpkg.com/framer/-/framer-0.9.7.tgz#a539ab5ddfebea21ace8afa69d8c5842ab4a91fa"
   dependencies:
     draft-js "0.10.4"
     eventemitter3 "^3.1.0"
