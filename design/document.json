@@ -11693,7 +11693,7 @@
                     "type" : "png"
                   }
                 ],
-                "fillColor" : "#BBBBBB",
+                "fillColor" : "rgba(255, 1, 64, 1.00)",
                 "fillEnabled" : true,
                 "fillGradient" : {
                   "__class" : "LinearGradient",
@@ -11777,6 +11777,8 @@
                           "type" : "png"
                         }
                       ],
+                      "fillColor" : "rgba(255, 1, 64, 1.00)",
+                      "fillEnabled" : true,
                       "left" : null,
                       "navigationTarget" : "IUgVoHXcK",
                       "right" : null,
@@ -11946,7 +11948,7 @@
                     "type" : "png"
                   }
                 ],
-                "fillColor" : "#BBBBBB",
+                "fillColor" : "#66BB66",
                 "fillEnabled" : true,
                 "fillGradient" : {
                   "__class" : "LinearGradient",
@@ -12026,6 +12028,7 @@
                           "type" : "png"
                         }
                       ],
+                      "fillColor" : "#66BB66",
                       "left" : null,
                       "navigationTarget" : "IUgVoHXcK",
                       "right" : null,
@@ -12194,7 +12197,7 @@
                     "type" : "png"
                   }
                 ],
-                "fillColor" : "#BBBBBB",
+                "fillColor" : "rgba(255, 1, 64, 1.00)",
                 "fillEnabled" : true,
                 "fillGradient" : {
                   "__class" : "LinearGradient",
@@ -12274,6 +12277,7 @@
                           "type" : "png"
                         }
                       ],
+                      "fillColor" : "rgba(255, 1, 64, 1.00)",
                       "left" : null,
                       "navigationTarget" : "IUgVoHXcK",
                       "right" : null,
@@ -12442,7 +12446,7 @@
                     "type" : "png"
                   }
                 ],
-                "fillColor" : "#BBBBBB",
+                "fillColor" : "#66BB66",
                 "fillEnabled" : true,
                 "fillGradient" : {
                   "__class" : "LinearGradient",
@@ -12522,6 +12526,7 @@
                           "type" : "png"
                         }
                       ],
+                      "fillColor" : "#66BB66",
                       "left" : null,
                       "navigationTarget" : "IUgVoHXcK",
                       "right" : null,
@@ -12693,7 +12698,7 @@
                     "type" : "png"
                   }
                 ],
-                "fillColor" : "rgba(0, 189, 44, 1.00)",
+                "fillColor" : "#66BB66",
                 "fillEnabled" : true,
                 "fillGradient" : {
                   "__class" : "LinearGradient",
@@ -12776,6 +12781,7 @@
                           "type" : "png"
                         }
                       ],
+                      "fillColor" : "#66BB66",
                       "left" : null,
                       "right" : null,
                       "top" : null
@@ -14099,15 +14105,6 @@
                         "type" : "unstyled"
                       }
                     ],
-                    "cached" : {
-                      "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"571jv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"571jv-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:26px;letter-spacing:-0.6px;line-height:1.2\"><span data-text=\"true\">Zimmer 1, Süd Rechts<\/span><\/span><\/div><\/div>",
-                      "os" : "10_14",
-                      "size" : {
-                        "height" : 31,
-                        "width" : 337
-                      },
-                      "width" : 336
-                    },
                     "entityMap" : {
 
                     }
@@ -20203,6 +20200,387 @@
             "visible" : true,
             "width" : 375,
             "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "blur" : 12,
+            "blurEnabled" : 0,
+            "blurType" : "layer",
+            "borderBottom" : 1,
+            "borderColor" : "#222",
+            "borderEnabled" : 0,
+            "borderLeft" : 1,
+            "borderPerSide" : false,
+            "borderRight" : 1,
+            "borderStyle" : "solid",
+            "borderTop" : 1,
+            "borderWidth" : 1,
+            "bottom" : null,
+            "boxShadows" : [
+
+            ],
+            "brightness" : 100,
+            "brightnessEnabled" : 0,
+            "centerAnchorX" : 0.93066666666666664,
+            "centerAnchorY" : 0.26578947368421052,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "contrast" : 100,
+            "contrastEnabled" : 0,
+            "deviceType" : null,
+            "exportOptions" : [
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
+            ],
+            "fillColor" : "#55CCFF",
+            "fillEnabled" : false,
+            "fillGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 0,
+              "end" : "rgba(0,0,0,0)",
+              "start" : "black"
+            },
+            "fillImage" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "grayscale" : 0,
+            "grayScaleEnabled" : 0,
+            "height" : 24,
+            "heightType" : 0,
+            "hueRotate" : 0,
+            "hueRotateEnabled" : 0,
+            "id" : "BMHpf9aen",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "invert" : 0,
+            "invertEnabled" : 0,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : "droplet",
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : "@framer\/colebemis.feather-icons-mCZzL_JD7",
+            "parentid" : "j8ADJLpCY",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "replicaInfo" : {
+              "master" : "@framer\/colebemis.feather-icons-mCZzL_JD7",
+              "overrides" : {
+                "@framer\/colebemis.feather-icons-mCZzL_JD7" : {
+                  "bottom" : null,
+                  "boxShadows" : [
+
+                  ],
+                  "centerAnchorX" : 0.93066666666666664,
+                  "centerAnchorY" : 0.26578947368421052,
+                  "codeOverrideEnabled" : false,
+                  "fillColor" : "#55CCFF",
+                  "fillEnabled" : false,
+                  "left" : null,
+                  "right" : 14,
+                  "top" : 493
+                },
+                "@framer\/colebemis.feather-icons-mCZzL_JD7-z6B9XvCmz" : {
+                  "blurEnabled" : 0,
+                  "fillColor" : "#1199EE",
+                  "shadows" : [
+
+                  ]
+                }
+              }
+            },
+            "right" : 14,
+            "rotation" : 0,
+            "saturate" : 100,
+            "saturateEnabled" : 0,
+            "sepia" : 0,
+            "sepiaEnabled" : 0,
+            "top" : 493,
+            "visible" : true,
+            "width" : 24,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "blur" : 12,
+            "blurEnabled" : 0,
+            "blurType" : "layer",
+            "borderBottom" : 1,
+            "borderColor" : "#222",
+            "borderEnabled" : 0,
+            "borderLeft" : 1,
+            "borderPerSide" : false,
+            "borderRight" : 1,
+            "borderStyle" : "solid",
+            "borderTop" : 1,
+            "borderWidth" : 1,
+            "bottom" : null,
+            "boxShadows" : [
+
+            ],
+            "brightness" : 100,
+            "brightnessEnabled" : 0,
+            "centerAnchorX" : 0.93066666666666664,
+            "centerAnchorY" : 0.26578947368421052,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "contrast" : 100,
+            "contrastEnabled" : 0,
+            "deviceType" : null,
+            "exportOptions" : [
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
+            ],
+            "fillColor" : "#55CCFF",
+            "fillEnabled" : false,
+            "fillGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 0,
+              "end" : "rgba(0,0,0,0)",
+              "start" : "black"
+            },
+            "fillImage" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "grayscale" : 0,
+            "grayScaleEnabled" : 0,
+            "height" : 24,
+            "heightType" : 0,
+            "hueRotate" : 0,
+            "hueRotateEnabled" : 0,
+            "id" : "xmT2JSEuG",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "invert" : 0,
+            "invertEnabled" : 0,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : "droplet",
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : "@framer\/colebemis.feather-icons-mCZzL_JD7",
+            "parentid" : "j8ADJLpCY",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "replicaInfo" : {
+              "master" : "@framer\/colebemis.feather-icons-mCZzL_JD7",
+              "overrides" : {
+                "@framer\/colebemis.feather-icons-mCZzL_JD7" : {
+                  "bottom" : null,
+                  "boxShadows" : [
+
+                  ],
+                  "centerAnchorX" : 0.93066666666666664,
+                  "centerAnchorY" : 0.26578947368421052,
+                  "codeOverrideEnabled" : false,
+                  "fillColor" : "#55CCFF",
+                  "fillEnabled" : false,
+                  "left" : null,
+                  "right" : 14,
+                  "top" : 493
+                },
+                "@framer\/colebemis.feather-icons-mCZzL_JD7-z6B9XvCmz" : {
+                  "blurEnabled" : 0,
+                  "fillColor" : "#1199EE",
+                  "shadows" : [
+
+                  ]
+                }
+              }
+            },
+            "right" : 14,
+            "rotation" : 0,
+            "saturate" : 100,
+            "saturateEnabled" : 0,
+            "sepia" : 0,
+            "sepiaEnabled" : 0,
+            "top" : 493,
+            "visible" : true,
+            "width" : 24,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "blur" : 12,
+            "blurEnabled" : 0,
+            "blurType" : "layer",
+            "borderBottom" : 1,
+            "borderColor" : "#222",
+            "borderEnabled" : 0,
+            "borderLeft" : 1,
+            "borderPerSide" : false,
+            "borderRight" : 1,
+            "borderStyle" : "solid",
+            "borderTop" : 1,
+            "borderWidth" : 1,
+            "bottom" : null,
+            "boxShadows" : [
+
+            ],
+            "brightness" : 100,
+            "brightnessEnabled" : 0,
+            "centerAnchorX" : 0.93066666666666664,
+            "centerAnchorY" : 0.23421052631578948,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "contrast" : 100,
+            "contrastEnabled" : 0,
+            "deviceType" : null,
+            "exportOptions" : [
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
+            ],
+            "fillColor" : "#55CCFF",
+            "fillEnabled" : false,
+            "fillGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 0,
+              "end" : "rgba(0,0,0,0)",
+              "start" : "black"
+            },
+            "fillImage" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "grayscale" : 0,
+            "grayScaleEnabled" : 0,
+            "height" : 24,
+            "heightType" : 0,
+            "hueRotate" : 0,
+            "hueRotateEnabled" : 0,
+            "id" : "XhKSU9roa",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "invert" : 0,
+            "invertEnabled" : 0,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : "droplet",
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : "@framer\/colebemis.feather-icons-mCZzL_JD7",
+            "parentid" : "j8ADJLpCY",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "replicaInfo" : {
+              "master" : "@framer\/colebemis.feather-icons-mCZzL_JD7",
+              "overrides" : {
+                "@framer\/colebemis.feather-icons-mCZzL_JD7" : {
+                  "bottom" : null,
+                  "boxShadows" : [
+
+                  ],
+                  "centerAnchorX" : 0.93066666666666664,
+                  "centerAnchorY" : 0.23421052631578948,
+                  "codeOverrideEnabled" : false,
+                  "fillColor" : "#55CCFF",
+                  "fillEnabled" : false,
+                  "left" : null,
+                  "right" : 14,
+                  "top" : 433
+                },
+                "@framer\/colebemis.feather-icons-mCZzL_JD7-z6B9XvCmz" : {
+                  "blurEnabled" : 0,
+                  "fillColor" : "#1199EE",
+                  "shadows" : [
+
+                  ]
+                }
+              }
+            },
+            "right" : 14,
+            "rotation" : 0,
+            "saturate" : 100,
+            "saturateEnabled" : 0,
+            "sepia" : 0,
+            "sepiaEnabled" : 0,
+            "top" : 433,
+            "visible" : true,
+            "width" : 24,
+            "widthType" : 0
           }
         ],
         "clip" : true,
@@ -22510,7 +22888,7 @@
                         "type" : "png"
                       }
                     ],
-                    "fillColor" : "#DDDDDD",
+                    "fillColor" : "#66BB66",
                     "fillEnabled" : true,
                     "fillGradient" : {
                       "__class" : "LinearGradient",
@@ -22589,6 +22967,7 @@
                               "type" : "png"
                             }
                           ],
+                          "fillColor" : "#66BB66",
                           "left" : 0,
                           "right" : null,
                           "top" : 0
@@ -22965,7 +23344,8 @@
                           "scale" : 4,
                           "type" : "png"
                         }
-                      ]
+                      ],
+                      "fillColor" : "rgba(255, 1, 64, 1.00)"
                     },
                     "xUZ6jh1rwVxPiMV04U" : {
                       "exportOptions" : [
@@ -23292,7 +23672,8 @@
                           "scale" : 4,
                           "type" : "png"
                         }
-                      ]
+                      ],
+                      "fillColor" : "#FFCC66"
                     },
                     "xUZ6jh1rwVxPiMV04U" : {
                       "exportOptions" : [
@@ -28217,7 +28598,8 @@
                           "scale" : 4,
                           "type" : "png"
                         }
-                      ]
+                      ],
+                      "fillColor" : "#66BB66"
                     },
                     "xUZ6jh1rwVxPiMV04U" : {
                       "centerAnchorY" : 0.51111111111111107,
@@ -28547,7 +28929,8 @@
                           "scale" : 4,
                           "type" : "png"
                         }
-                      ]
+                      ],
+                      "fillColor" : "#66BB66"
                     },
                     "xUZ6jh1rwVxPiMV04U" : {
                       "centerAnchorY" : 0.51111111111111107,
@@ -28709,8 +29092,8 @@
                     "type" : "png"
                   }
                 ],
-                "fillColor" : "#EEEEEE",
-                "fillEnabled" : false,
+                "fillColor" : "#66BB66",
+                "fillEnabled" : true,
                 "fillGradient" : {
                   "__class" : "LinearGradient",
                   "alpha" : 1,
@@ -28791,6 +29174,8 @@
                           "type" : "png"
                         }
                       ],
+                      "fillColor" : "#66BB66",
+                      "fillEnabled" : true,
                       "left" : 0,
                       "right" : null,
                       "top" : 0
@@ -28879,7 +29264,8 @@
                           "scale" : 4,
                           "type" : "png"
                         }
-                      ]
+                      ],
+                      "fillColor" : "#66BB66"
                     },
                     "xUZ6jh1rwVxPiMV04U" : {
                       "centerAnchorY" : 0.51111111111111107,
@@ -29208,7 +29594,8 @@
                           "scale" : 4,
                           "type" : "png"
                         }
-                      ]
+                      ],
+                      "fillColor" : "#66BB66"
                     },
                     "xUZ6jh1rwVxPiMV04U" : {
                       "exportOptions" : [
@@ -39280,38 +39667,38 @@
                       ],
                       "inlineStyleRanges" : [
                         {
-                          "length" : 9,
+                          "length" : 8,
                           "offset" : 0,
                           "style" : "SIZE:26"
                         },
                         {
-                          "length" : 9,
+                          "length" : 8,
                           "offset" : 0,
                           "style" : "LETTERSPACING:-0.6"
                         },
                         {
-                          "length" : 9,
+                          "length" : 8,
                           "offset" : 0,
                           "style" : "ALIGN:left"
                         },
                         {
-                          "length" : 9,
+                          "length" : 8,
                           "offset" : 0,
                           "style" : "FONT:__SF-UI-Text-Bold__"
                         },
                         {
-                          "length" : 9,
+                          "length" : 8,
                           "offset" : 0,
                           "style" : "COLOR:hsl(0, 0%, 100%)"
                         }
                       ],
                       "key" : "571jv",
-                      "text" : "Korridor\t",
+                      "text" : "Gäste WC",
                       "type" : "unstyled"
                     }
                   ],
                   "cached" : {
-                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"571jv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"571jv-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:26px;letter-spacing:-0.6px;line-height:1.2\"><span data-text=\"true\">Korridor\t<\/span><\/span><\/div><\/div>",
+                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"571jv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"571jv-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:26px;letter-spacing:-0.6px;line-height:1.2\"><span data-text=\"true\">Gäste WC<\/span><\/span><\/div><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 31,
@@ -39923,8 +40310,8 @@
                 "bottom" : null,
                 "brightness" : 100,
                 "brightnessEnabled" : 0,
-                "centerAnchorX" : 0.36133333333333328,
-                "centerAnchorY" : 0.49166666666666659,
+                "centerAnchorX" : 0.51333333333333331,
+                "centerAnchorY" : 0.48333333333333334,
                 "codeOverrideEnabled" : false,
                 "constraintsLocked" : false,
                 "contrast" : 100,
@@ -39957,7 +40344,7 @@
                 ],
                 "grayscale" : 0,
                 "grayScaleEnabled" : 0,
-                "height" : 31,
+                "height" : 32,
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
@@ -39972,7 +40359,7 @@
                 "originalid" : null,
                 "parentid" : "jUMEA8DES",
                 "replicaInfo" : null,
-                "right" : null,
+                "right" : 20,
                 "rotation" : 0,
                 "saturate" : 100,
                 "saturateEnabled" : 0,
@@ -39989,9 +40376,9 @@
                         "emptyStyle" : [
                           "SIZE:26",
                           "LETTERSPACING:-0.6",
-                          "ALIGN:left",
                           "FONT:__SF-UI-Text-Bold__",
-                          "COLOR:hsl(0, 0%, 100%)"
+                          "COLOR:hsl(0, 0%, 100%)",
+                          "ALIGN:left"
                         ]
                       },
                       "depth" : 0,
@@ -40000,44 +40387,44 @@
                       ],
                       "inlineStyleRanges" : [
                         {
-                          "length" : 9,
+                          "length" : 20,
                           "offset" : 0,
                           "style" : "SIZE:26"
                         },
                         {
-                          "length" : 9,
+                          "length" : 20,
                           "offset" : 0,
                           "style" : "LETTERSPACING:-0.6"
                         },
                         {
-                          "length" : 9,
-                          "offset" : 0,
-                          "style" : "ALIGN:left"
-                        },
-                        {
-                          "length" : 9,
+                          "length" : 20,
                           "offset" : 0,
                           "style" : "FONT:__SF-UI-Text-Bold__"
                         },
                         {
-                          "length" : 9,
+                          "length" : 20,
                           "offset" : 0,
                           "style" : "COLOR:hsl(0, 0%, 100%)"
+                        },
+                        {
+                          "length" : 20,
+                          "offset" : 0,
+                          "style" : "ALIGN:left"
                         }
                       ],
                       "key" : "571jv",
-                      "text" : "Zimmer 1\t",
+                      "text" : "Zimmer 1, Süd Rechts",
                       "type" : "unstyled"
                     }
                   ],
                   "cached" : {
-                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"571jv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"571jv-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:26px;letter-spacing:-0.6px;line-height:1.2\"><span data-text=\"true\">Zimmer 1\t<\/span><\/span><\/div><\/div>",
+                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"571jv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"571jv-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:26px;letter-spacing:-0.6px;line-height:1.2\"><span data-text=\"true\">Zimmer 1, Süd Rechts<\/span><\/span><\/div><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 31,
-                      "width" : 212
+                      "width" : 326
                     },
-                    "width" : 211
+                    "width" : 325
                   },
                   "entityMap" : {
 
@@ -40045,7 +40432,7 @@
                 },
                 "top" : null,
                 "visible" : true,
-                "width" : 211,
+                "width" : 325,
                 "widthType" : 0
               }
             ],
@@ -40318,9 +40705,9 @@
                           "emptyStyle" : [
                             "SIZE:26",
                             "LETTERSPACING:-0.6",
-                            "ALIGN:left",
                             "FONT:__SF-UI-Text-Bold__",
-                            "COLOR:hsl(0, 0%, 100%)"
+                            "COLOR:hsl(0, 0%, 100%)",
+                            "ALIGN:left"
                           ]
                         },
                         "depth" : 0,
@@ -40341,17 +40728,17 @@
                           {
                             "length" : 12,
                             "offset" : 0,
-                            "style" : "ALIGN:left"
-                          },
-                          {
-                            "length" : 12,
-                            "offset" : 0,
                             "style" : "FONT:__SF-UI-Text-Bold__"
                           },
                           {
                             "length" : 12,
                             "offset" : 0,
                             "style" : "COLOR:hsl(0, 0%, 100%)"
+                          },
+                          {
+                            "length" : 12,
+                            "offset" : 0,
+                            "style" : "ALIGN:left"
                           }
                         ],
                         "key" : "571jv",
@@ -40364,9 +40751,9 @@
                       "os" : "10_14",
                       "size" : {
                         "height" : 31,
-                        "width" : 212
+                        "width" : 326
                       },
-                      "width" : 211
+                      "width" : 325
                     },
                     "entityMap" : {
 
@@ -40382,252 +40769,6 @@
             "sepia" : 0,
             "sepiaEnabled" : 0,
             "top" : 460,
-            "visible" : true,
-            "width" : 375,
-            "widthType" : 0
-          },
-          {
-            "__class" : "FrameNode",
-            "aspectRatio" : null,
-            "blendingEnabled" : 0,
-            "blendingMode" : "normal",
-            "blur" : 12,
-            "blurEnabled" : 0,
-            "blurType" : "layer",
-            "borderBottom" : 1,
-            "borderColor" : "hsl(0, 0%, 100%)",
-            "borderEnabled" : 1,
-            "borderLeft" : 0,
-            "borderPerSide" : true,
-            "borderRight" : 0,
-            "borderStyle" : "solid",
-            "borderTop" : 0,
-            "borderWidth" : 1,
-            "bottom" : null,
-            "boxShadows" : [
-
-            ],
-            "brightness" : 100,
-            "brightnessEnabled" : 0,
-            "centerAnchorX" : 0.5,
-            "centerAnchorY" : 0.45833333333333331,
-            "children" : [
-
-            ],
-            "clip" : true,
-            "codeOverrideEnabled" : false,
-            "constraintsLocked" : true,
-            "contrast" : 100,
-            "contrastEnabled" : 0,
-            "deviceType" : null,
-            "exportOptions" : [
-              {
-                "__class" : "ExportOptions",
-                "enabled" : false,
-                "nameExtension" : "",
-                "nameExtensionMode" : "Suffix",
-                "scale" : 1,
-                "type" : "png"
-              },
-              {
-                "__class" : "ExportOptions",
-                "enabled" : false,
-                "nameExtension" : "@3x",
-                "nameExtensionMode" : "Suffix",
-                "scale" : 3,
-                "type" : "png"
-              },
-              {
-                "__class" : "ExportOptions",
-                "enabled" : false,
-                "nameExtension" : "@4x",
-                "nameExtensionMode" : "Suffix",
-                "scale" : 4,
-                "type" : "png"
-              }
-            ],
-            "fillColor" : "#55CCFF",
-            "fillEnabled" : true,
-            "fillGradient" : {
-              "__class" : "LinearGradient",
-              "alpha" : 1,
-              "angle" : 0,
-              "end" : "rgba(0,0,0,0)",
-              "start" : "black"
-            },
-            "fillImage" : null,
-            "fillImagePixelHeight" : null,
-            "fillImagePixelWidth" : null,
-            "fillImageResize" : "fill",
-            "fillType" : "color",
-            "grayscale" : 0,
-            "grayScaleEnabled" : 0,
-            "height" : 60,
-            "heightType" : 0,
-            "hueRotate" : 0,
-            "hueRotateEnabled" : 0,
-            "id" : "epjKR1DJi",
-            "intrinsicHeight" : null,
-            "intrinsicWidth" : null,
-            "invert" : 0,
-            "invertEnabled" : 0,
-            "isExternalMaster" : null,
-            "isMaster" : false,
-            "isTarget" : false,
-            "left" : null,
-            "locked" : false,
-            "name" : "Responsability Defect",
-            "navigationTarget" : null,
-            "navigationTransition" : "push",
-            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
-            "navigationTransitionDirection" : "left",
-            "opacity" : 1,
-            "originalid" : "jUMEA8DES",
-            "parentid" : "KyctNQ6UR",
-            "previewSettings" : null,
-            "radius" : 0,
-            "radiusBottomLeft" : 0,
-            "radiusBottomRight" : 0,
-            "radiusIsRelative" : false,
-            "radiusPerCorner" : false,
-            "radiusTopLeft" : 0,
-            "radiusTopRight" : 0,
-            "replicaInfo" : {
-              "master" : "jUMEA8DES",
-              "overrides" : {
-                "jUMEA8DES" : {
-                  "bottom" : null,
-                  "centerAnchorX" : 0.5,
-                  "centerAnchorY" : 0.45833333333333331,
-                  "exportOptions" : [
-                    {
-                      "__class" : "ExportOptions",
-                      "enabled" : false,
-                      "nameExtension" : "",
-                      "nameExtensionMode" : "Suffix",
-                      "scale" : 1,
-                      "type" : "png"
-                    },
-                    {
-                      "__class" : "ExportOptions",
-                      "enabled" : false,
-                      "nameExtension" : "@3x",
-                      "nameExtensionMode" : "Suffix",
-                      "scale" : 3,
-                      "type" : "png"
-                    },
-                    {
-                      "__class" : "ExportOptions",
-                      "enabled" : false,
-                      "nameExtension" : "@4x",
-                      "nameExtensionMode" : "Suffix",
-                      "scale" : 4,
-                      "type" : "png"
-                    }
-                  ],
-                  "left" : null,
-                  "right" : null,
-                  "top" : 520
-                },
-                "jUMEA8DESEeV0H2Ih9" : {
-                  "exportOptions" : [
-                    {
-                      "__class" : "ExportOptions",
-                      "enabled" : false,
-                      "nameExtension" : "",
-                      "nameExtensionMode" : "Suffix",
-                      "scale" : 1,
-                      "type" : "png"
-                    },
-                    {
-                      "__class" : "ExportOptions",
-                      "enabled" : false,
-                      "nameExtension" : "@3x",
-                      "nameExtensionMode" : "Suffix",
-                      "scale" : 3,
-                      "type" : "png"
-                    },
-                    {
-                      "__class" : "ExportOptions",
-                      "enabled" : false,
-                      "nameExtension" : "@4x",
-                      "nameExtensionMode" : "Suffix",
-                      "scale" : 4,
-                      "type" : "png"
-                    }
-                  ],
-                  "styledText" : {
-                    "__class" : "StyledTextDraft",
-                    "blocks" : [
-                      {
-                        "data" : {
-                          "emptyStyle" : [
-                            "SIZE:26",
-                            "LETTERSPACING:-0.6",
-                            "ALIGN:left",
-                            "FONT:__SF-UI-Text-Bold__",
-                            "COLOR:hsl(0, 0%, 100%)"
-                          ]
-                        },
-                        "depth" : 0,
-                        "entityRanges" : [
-
-                        ],
-                        "inlineStyleRanges" : [
-                          {
-                            "length" : 5,
-                            "offset" : 0,
-                            "style" : "SIZE:26"
-                          },
-                          {
-                            "length" : 5,
-                            "offset" : 0,
-                            "style" : "LETTERSPACING:-0.6"
-                          },
-                          {
-                            "length" : 5,
-                            "offset" : 0,
-                            "style" : "ALIGN:left"
-                          },
-                          {
-                            "length" : 5,
-                            "offset" : 0,
-                            "style" : "FONT:__SF-UI-Text-Bold__"
-                          },
-                          {
-                            "length" : 5,
-                            "offset" : 0,
-                            "style" : "COLOR:hsl(0, 0%, 100%)"
-                          }
-                        ],
-                        "key" : "571jv",
-                        "text" : "Küche",
-                        "type" : "unstyled"
-                      }
-                    ],
-                    "cached" : {
-                      "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"571jv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"571jv-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:26px;letter-spacing:-0.6px;line-height:1.2\"><span data-text=\"true\">Küche<\/span><\/span><\/div><\/div>",
-                      "os" : "10_14",
-                      "size" : {
-                        "height" : 31,
-                        "width" : 212
-                      },
-                      "width" : 211
-                    },
-                    "entityMap" : {
-
-                    }
-                  }
-                }
-              }
-            },
-            "right" : null,
-            "rotation" : 0,
-            "saturate" : 100,
-            "saturateEnabled" : 0,
-            "sepia" : 0,
-            "sepiaEnabled" : 0,
-            "top" : 520,
             "visible" : true,
             "width" : 375,
             "widthType" : 0
@@ -41038,7 +41179,7 @@
             "brightness" : 100,
             "brightnessEnabled" : 0,
             "centerAnchorX" : 0.5,
-            "centerAnchorY" : 0.52081598667776852,
+            "centerAnchorY" : 0.5655,
             "children" : [
               {
                 "__class" : "TextNode",
@@ -41391,7 +41532,7 @@
             "saturateEnabled" : 0,
             "sepia" : 0,
             "sepiaEnabled" : 0,
-            "top" : 580,
+            "top" : 520,
             "visible" : true,
             "width" : 375,
             "widthType" : 0
@@ -65396,7 +65537,7 @@
                 "type" : "png"
               }
             ],
-            "fillColor" : "#BBBBBB",
+            "fillColor" : "#66BB66",
             "fillEnabled" : true,
             "fillGradient" : {
               "__class" : "LinearGradient",
@@ -65488,6 +65629,7 @@
                       "type" : "png"
                     }
                   ],
+                  "fillColor" : "#66BB66",
                   "left" : 0,
                   "navigationTarget" : null,
                   "navigationTransitionDirection" : "right",
@@ -73347,7 +73489,7 @@
             "left" : 48,
             "locked" : false,
             "name" : "Button",
-            "navigationTarget" : null,
+            "navigationTarget" : "JDe5w8UCQ",
             "navigationTransition" : "push",
             "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
             "navigationTransitionDirection" : "left",
@@ -73401,7 +73543,7 @@
                   "invert" : 100,
                   "invertEnabled" : 0,
                   "left" : 48,
-                  "navigationTarget" : null,
+                  "navigationTarget" : "JDe5w8UCQ",
                   "navigationTransitionDirection" : "left",
                   "right" : 48,
                   "top" : null,
@@ -73670,7 +73812,7 @@
             ],
             "grayscale" : 0,
             "grayScaleEnabled" : 0,
-            "height" : 48,
+            "height" : 72,
             "heightType" : 0,
             "hueRotate" : 0,
             "hueRotateEnabled" : 0,
@@ -73713,41 +73855,41 @@
                   ],
                   "inlineStyleRanges" : [
                     {
-                      "length" : 45,
+                      "length" : 71,
                       "offset" : 0,
                       "style" : "COLOR:rgb(255, 255, 255)"
                     },
                     {
-                      "length" : 45,
+                      "length" : 71,
                       "offset" : 0,
                       "style" : "SIZE:20"
                     },
                     {
-                      "length" : 45,
+                      "length" : 71,
                       "offset" : 0,
                       "style" : "LETTERSPACING:-0.8"
                     },
                     {
-                      "length" : 45,
+                      "length" : 71,
                       "offset" : 0,
                       "style" : "ALIGN:center"
                     },
                     {
-                      "length" : 45,
+                      "length" : 71,
                       "offset" : 0,
                       "style" : "FONT:__SF-UI-Text-Regular__"
                     }
                   ],
                   "key" : "drjv4",
-                  "text" : "Folgende Persoenen wurden ab- und angemeldet.",
+                  "text" : "Folgende Persoenen wurden bei der Gemeinde *Wartau* ab- und angemeldet.",
                   "type" : "unstyled"
                 }
               ],
               "cached" : {
-                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"drjv4-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"drjv4-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, sans-serif;-webkit-text-fill-color:rgb(255, 255, 255);font-size:20px;letter-spacing:-0.8px;line-height:1.2\"><span data-text=\"true\">Folgende Persoenen wurden ab- und angemeldet.<\/span><\/span><\/div><\/div>",
+                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"drjv4-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"drjv4-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, sans-serif;-webkit-text-fill-color:rgb(255, 255, 255);font-size:20px;letter-spacing:-0.8px;line-height:1.2\"><span data-text=\"true\">Folgende Persoenen wurden bei der Gemeinde *Wartau* ab- und angemeldet.<\/span><\/span><\/div><\/div>",
                 "os" : "10_14",
                 "size" : {
-                  "height" : 48,
+                  "height" : 72,
                   "width" : 336
                 },
                 "width" : 335
@@ -73812,7 +73954,7 @@
             "invert" : 0,
             "invertEnabled" : 0,
             "isTarget" : true,
-            "left" : 40,
+            "left" : 113,
             "locked" : false,
             "name" : "Movitation",
             "opacity" : 1,
@@ -73847,42 +73989,42 @@
                   ],
                   "inlineStyleRanges" : [
                     {
-                      "length" : 18,
+                      "length" : 9,
                       "offset" : 0,
                       "style" : "COLOR:rgb(255, 255, 255)"
                     },
                     {
-                      "length" : 18,
+                      "length" : 9,
                       "offset" : 0,
                       "style" : "SIZE:36"
                     },
                     {
-                      "length" : 18,
+                      "length" : 9,
                       "offset" : 0,
                       "style" : "LETTERSPACING:-1.5"
                     },
                     {
-                      "length" : 18,
+                      "length" : 9,
                       "offset" : 0,
                       "style" : "ALIGN:center"
                     },
                     {
-                      "length" : 18,
+                      "length" : 9,
                       "offset" : 0,
                       "style" : "FONT:__SF-UI-Text-Semibold__"
                     }
                   ],
                   "key" : "7q02h",
-                  "text" : "Drittmelde Pflicht",
+                  "text" : "Erledigt!",
                   "type" : "unstyled"
                 }
               ],
               "cached" : {
-                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"7q02h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"7q02h-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Semibold&quot;, &quot;SFProText-Semibold&quot;, &quot;SFUIText-Semibold&quot;, &quot;.SFUIText-Semibold&quot;, sans-serif;-webkit-text-fill-color:rgb(255, 255, 255);font-size:36px;letter-spacing:-1.5px;line-height:1.2\"><span data-text=\"true\">Drittmelde Pflicht<\/span><\/span><\/div><\/div>",
+                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"7q02h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"7q02h-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Semibold&quot;, &quot;SFProText-Semibold&quot;, &quot;SFUIText-Semibold&quot;, &quot;.SFUIText-Semibold&quot;, sans-serif;-webkit-text-fill-color:rgb(255, 255, 255);font-size:36px;letter-spacing:-1.5px;line-height:1.2\"><span data-text=\"true\">Erledigt!<\/span><\/span><\/div><\/div>",
                 "os" : "10_14",
                 "size" : {
                   "height" : 43,
-                  "width" : 288
+                  "width" : 138
                 },
                 "width" : 0
               },
@@ -73892,7 +74034,7 @@
             },
             "top" : 100,
             "visible" : true,
-            "width" : 288,
+            "width" : 138,
             "widthType" : 0
           },
           {
@@ -75726,7 +75868,7 @@
                             "LINEHEIGHT:1.4",
                             "ALIGN:center",
                             "FONT:__SF-UI-Text-Bold__",
-                            "COLOR:rgba(255, 126, 40, 1.00)"
+                            "COLOR:rgba(60, 172, 62, 1.00)"
                           ]
                         },
                         "depth" : 0,
@@ -75757,7 +75899,7 @@
                           {
                             "length" : 7,
                             "offset" : 0,
-                            "style" : "COLOR:rgba(255, 126, 40, 1.00)"
+                            "style" : "COLOR:rgba(60, 172, 62, 1.00)"
                           }
                         ],
                         "key" : "86i4o",
@@ -75766,7 +75908,7 @@
                       }
                     ],
                     "cached" : {
-                      "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"86i4o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"86i4o-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:rgba(255, 126, 40, 1.00);font-size:14px;letter-spacing:0px;line-height:1.4\"><span data-text=\"true\">BEENDEN<\/span><\/span><\/div><\/div>",
+                      "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"86i4o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"86i4o-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:rgba(60, 172, 62, 1.00);font-size:14px;letter-spacing:0px;line-height:1.4\"><span data-text=\"true\">BEENDEN<\/span><\/span><\/div><\/div>",
                       "os" : "10_14",
                       "size" : {
                         "height" : 19,
@@ -75778,7 +75920,7 @@
 
                     }
                   },
-                  "width" : 101
+                  "width" : 69
                 },
                 "PGu2hysfG" : {
 
@@ -78092,8 +78234,8 @@
           "__class" : "LinearGradient",
           "alpha" : 1,
           "angle" : 1,
-          "end" : "hsl(27, 100%, 71%)",
-          "start" : "hsl(24, 100%, 54%)"
+          "end" : "rgba(70, 208, 71, 1.00)",
+          "start" : "rgba(60, 169, 61, 1.00)"
         },
         "fillImage" : null,
         "fillImagePixelHeight" : null,
@@ -82074,7 +82216,7 @@
                     "heightType" : 0,
                     "hueRotate" : 0,
                     "hueRotateEnabled" : 0,
-                    "id" : "KRa7Ky2Bv@framer\/edoardo.ios-kit-d55_BkEEz-F2qxnqRVo",
+                    "id" : "MNPvrkBj6@framer\/edoardo.ios-kit-d55_BkEEz-F2qxnqRVo",
                     "intrinsicHeight" : null,
                     "intrinsicWidth" : null,
                     "invert" : 0,
@@ -82091,7 +82233,7 @@
                     "navigationTransitionDirection" : "left",
                     "opacity" : 0.5,
                     "originalid" : null,
-                    "parentid" : "KRa7Ky2Bv@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
+                    "parentid" : "MNPvrkBj6@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
                     "previewSettings" : null,
                     "radius" : 0,
                     "radiusBottomLeft" : 0,
@@ -82172,7 +82314,7 @@
                     "heightType" : 0,
                     "hueRotate" : 0,
                     "hueRotateEnabled" : 0,
-                    "id" : "KRa7Ky2Bv@framer\/edoardo.ios-kit-d55_BkEEz-R3GuHYJMu",
+                    "id" : "MNPvrkBj6@framer\/edoardo.ios-kit-d55_BkEEz-R3GuHYJMu",
                     "intrinsicHeight" : null,
                     "intrinsicWidth" : null,
                     "invert" : 0,
@@ -82189,7 +82331,7 @@
                     "navigationTransitionDirection" : "left",
                     "opacity" : 1,
                     "originalid" : null,
-                    "parentid" : "KRa7Ky2Bv@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
+                    "parentid" : "MNPvrkBj6@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
                     "previewSettings" : null,
                     "radius" : 0,
                     "radiusBottomLeft" : 0,
@@ -82243,7 +82385,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "KRa7Ky2Bv@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
+                "id" : "MNPvrkBj6@framer\/edoardo.ios-kit-d55_BkEEz-VNVaxaw6h",
                 "intrinsicHeight" : null,
                 "intrinsicWidth" : null,
                 "invert" : 0,
@@ -82402,7 +82544,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "Py5SSgWQC@framer\/edoardo.ios-kit-TF9EVdCIb-QHXqXac9W",
+                "id" : "zysUMCEFd@framer\/edoardo.ios-kit-TF9EVdCIb-QHXqXac9W",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -82617,7 +82759,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "d_rELASqT@framer\/edoardo.ios-kit-X0JTtOehr-ZTHsfcVGM",
+                "id" : "OCmAqVmHC@framer\/edoardo.ios-kit-X0JTtOehr-ZTHsfcVGM",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -82850,7 +82992,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "nhs1XR5LS@framer\/edoardo.ios-kit-FM6oG64sh-SXCDX2pZP",
+                "id" : "IaWmNc9wa@framer\/edoardo.ios-kit-FM6oG64sh-SXCDX2pZP",
                 "intrinsicHeight" : 15,
                 "intrinsicWidth" : 10,
                 "invert" : 0,
@@ -83000,7 +83142,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "YYe0SnC8b@framer\/edoardo.ios-kit-kysPldiIC-POinRBWj1",
+                "id" : "JzoQD6QWv@framer\/edoardo.ios-kit-kysPldiIC-POinRBWj1",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -83321,7 +83463,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "l0PDh0Sx0@framer\/edoardo.ios-kit-ossDw2kPM-a0X9wCT6p",
+                "id" : "UEaS0whcw@framer\/edoardo.ios-kit-ossDw2kPM-a0X9wCT6p",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -83450,7 +83592,7 @@
                     "fillImageResize" : "fill",
                     "fillType" : "color",
                     "height" : 28.944271909999163,
-                    "id" : "l0PDh0Sx0@framer\/edoardo.ios-kit-ossDw2kPM-x_Th1zu8y",
+                    "id" : "UEaS0whcw@framer\/edoardo.ios-kit-ossDw2kPM-x_Th1zu8y",
                     "isMaster" : false,
                     "lineCap" : "butt",
                     "lineJoin" : "miter",
@@ -83458,7 +83600,7 @@
                     "name" : null,
                     "opacity" : 1,
                     "originalid" : null,
-                    "parentid" : "l0PDh0Sx0@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
+                    "parentid" : "UEaS0whcw@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
                     "pathClosed" : true,
                     "pathSegments" : [
                       {
@@ -83608,7 +83750,7 @@
                 "fillType" : "color",
                 "height" : 30,
                 "heightType" : 0,
-                "id" : "l0PDh0Sx0@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
+                "id" : "UEaS0whcw@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
                 "isMaster" : false,
                 "left" : 0,
                 "locked" : false,
@@ -83754,7 +83896,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "rgoUEd5bz@framer\/edoardo.ios-kit-n7NP9hdE3-LuC_v9aw4",
+                "id" : "JJ7CubOts@framer\/edoardo.ios-kit-n7NP9hdE3-LuC_v9aw4",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -83883,7 +84025,7 @@
                     "fillImageResize" : "fill",
                     "fillType" : "color",
                     "height" : 28.944271909999163,
-                    "id" : "rgoUEd5bz@framer\/edoardo.ios-kit-n7NP9hdE3-izXd9XVcO",
+                    "id" : "JJ7CubOts@framer\/edoardo.ios-kit-n7NP9hdE3-izXd9XVcO",
                     "isMaster" : false,
                     "lineCap" : "butt",
                     "lineJoin" : "miter",
@@ -83891,7 +84033,7 @@
                     "name" : null,
                     "opacity" : 1,
                     "originalid" : null,
-                    "parentid" : "rgoUEd5bz@framer\/edoardo.ios-kit-n7NP9hdE3-oUM_YhjVI",
+                    "parentid" : "JJ7CubOts@framer\/edoardo.ios-kit-n7NP9hdE3-oUM_YhjVI",
                     "pathClosed" : true,
                     "pathSegments" : [
                       {
@@ -84041,7 +84183,7 @@
                 "fillType" : "color",
                 "height" : 30,
                 "heightType" : 0,
-                "id" : "rgoUEd5bz@framer\/edoardo.ios-kit-n7NP9hdE3-oUM_YhjVI",
+                "id" : "JJ7CubOts@framer\/edoardo.ios-kit-n7NP9hdE3-oUM_YhjVI",
                 "isMaster" : false,
                 "left" : 1,
                 "locked" : false,
@@ -84187,7 +84329,7 @@
                 "heightType" : 0,
                 "hueRotate" : 0,
                 "hueRotateEnabled" : 0,
-                "id" : "gENwiKApk@framer\/edoardo.ios-kit-ossDw2kPM-a0X9wCT6p",
+                "id" : "gXDlFyWew@framer\/edoardo.ios-kit-ossDw2kPM-a0X9wCT6p",
                 "invert" : 0,
                 "invertEnabled" : 0,
                 "isMaster" : false,
@@ -84316,7 +84458,7 @@
                     "fillImageResize" : "fill",
                     "fillType" : "color",
                     "height" : 28.944271909999163,
-                    "id" : "gENwiKApk@framer\/edoardo.ios-kit-ossDw2kPM-x_Th1zu8y",
+                    "id" : "gXDlFyWew@framer\/edoardo.ios-kit-ossDw2kPM-x_Th1zu8y",
                     "isMaster" : false,
                     "lineCap" : "butt",
                     "lineJoin" : "miter",
@@ -84324,7 +84466,7 @@
                     "name" : null,
                     "opacity" : 1,
                     "originalid" : null,
-                    "parentid" : "gENwiKApk@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
+                    "parentid" : "gXDlFyWew@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
                     "pathClosed" : true,
                     "pathSegments" : [
                       {
@@ -84474,7 +84616,7 @@
                 "fillType" : "color",
                 "height" : 30,
                 "heightType" : 0,
-                "id" : "gENwiKApk@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
+                "id" : "gXDlFyWew@framer\/edoardo.ios-kit-ossDw2kPM-pItgj87i5",
                 "isMaster" : false,
                 "left" : 0,
                 "locked" : false,
@@ -85317,6 +85459,183 @@
         "top" : 0,
         "visible" : true,
         "width" : 48,
+        "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : 1,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "blur" : 12,
+        "blurEnabled" : 0,
+        "blurType" : "layer",
+        "borderBottom" : 1,
+        "borderColor" : "#222",
+        "borderEnabled" : 0,
+        "borderLeft" : 1,
+        "borderPerSide" : false,
+        "borderRight" : 1,
+        "borderStyle" : "solid",
+        "borderTop" : 1,
+        "borderWidth" : 1,
+        "bottom" : null,
+        "boxShadows" : [
+
+        ],
+        "brightness" : 100,
+        "brightnessEnabled" : 0,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+          {
+            "__class" : "SVGNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "blur" : 12,
+            "blurEnabled" : 0,
+            "blurType" : "layer",
+            "bottom" : null,
+            "brightness" : 100,
+            "brightnessEnabled" : 0,
+            "centerAnchorX" : 0.5,
+            "centerAnchorY" : 0.5,
+            "children" : [
+
+            ],
+            "colorable" : true,
+            "constraintsLocked" : false,
+            "contrast" : 100,
+            "contrastEnabled" : 0,
+            "exportOptions" : [
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
+            ],
+            "fillColor" : "#555555",
+            "fillGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 0,
+              "end" : "rgba(0,0,0,0)",
+              "start" : "black"
+            },
+            "fillImage" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "grayscale" : 0,
+            "grayScaleEnabled" : 0,
+            "height" : 24,
+            "heightType" : 0,
+            "hueRotate" : 0,
+            "hueRotateEnabled" : 0,
+            "id" : "@framer\/colebemis.feather-icons-mCZzL_JD7-z6B9XvCmz",
+            "intrinsicHeight" : 24,
+            "intrinsicWidth" : 24,
+            "invert" : 0,
+            "invertEnabled" : 0,
+            "left" : 0,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalFilename" : "droplet.svg",
+            "originalid" : null,
+            "parentid" : "@framer\/colebemis.feather-icons-mCZzL_JD7",
+            "right" : 0,
+            "rotation" : 0,
+            "saturate" : 100,
+            "saturateEnabled" : 0,
+            "sepia" : 0,
+            "sepiaEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-droplet\"><path d=\"M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z\"><\/path><\/svg>",
+            "top" : 0,
+            "visible" : true,
+            "width" : 24,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "contrast" : 100,
+        "contrastEnabled" : 0,
+        "deviceType" : null,
+        "exportOptions" : [
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
+        ],
+        "fillColor" : "rgba(255,255,255,1)",
+        "fillEnabled" : false,
+        "fillGradient" : {
+          "__class" : "LinearGradient",
+          "alpha" : 1,
+          "angle" : 0,
+          "end" : "rgba(0,0,0,0)",
+          "start" : "black"
+        },
+        "fillImage" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "grayscale" : 0,
+        "grayScaleEnabled" : 0,
+        "height" : 24,
+        "heightType" : 0,
+        "hueRotate" : 0,
+        "hueRotateEnabled" : 0,
+        "id" : "@framer\/colebemis.feather-icons-mCZzL_JD7",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "invert" : 0,
+        "invertEnabled" : 0,
+        "isExternalMaster" : "@framer\/colebemis.feather-icons",
+        "isMaster" : true,
+        "isTarget" : false,
+        "left" : 0,
+        "locked" : false,
+        "name" : "droplet",
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "Eb2Paw10I",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "saturate" : 100,
+        "saturateEnabled" : 0,
+        "sepia" : 0,
+        "sepiaEnabled" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 24,
         "widthType" : 0
       }
     ],
